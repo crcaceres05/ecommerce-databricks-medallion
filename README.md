@@ -55,7 +55,7 @@ Pipeline validado end-to-end sin pérdida de filas entre capas (112,650 filas co
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 Insights destacados:
 - `beleza_saude`, `relogios_presentes` y `cama_mesa_banho` lideran en revenue total.
